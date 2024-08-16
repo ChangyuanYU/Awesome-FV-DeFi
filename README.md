@@ -22,3 +22,4 @@ Paper lists about Formal Verification in DeFi, if you have any questions or sugg
   - [Formal Analysis of IBC Protocol](https://github.com/michwqy/IBC-TLA)
   - [Payout Races and Congested Channels: A Formal Analysis of Security in the Lightning Network](https://arxiv.org/abs/2405.02147)
   - [Atomicity and Abstraction for Cross-Blockchain Interactions](https://arxiv.org/abs/2403.07248)
+  - [LiDO: Linearizable Byzantine Distributed Objects with Refinement-Based Liveness Proofs](https://flint.cs.yale.edu/flint/publications/lido-tr.pdf)
