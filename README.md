@@ -6,6 +6,7 @@ Paper lists about Formal Verification in DeFi, if you have any questions or sugg
 ## **Content**
    1. [Smart Contracts Formal Verification](#smart-contracts-formal-verification)
    2. [Protocol Formal Verification](#protocol-formal-verification)
+   3. [Useful tools](#useful tools)
 
 ## Smart Contracts Formal Verification
   - [On Verification of Smart Contracts via Model Checking](https://www.researchgate.net/profile/Xue-Yang-Zhu/publication/361701266_On_Verification_of_Smart_Contracts_via_Model_Checking/links/6305d03bacd814437fd110d7/On-Verification-of-Smart-Contracts-via-Model-Checking.pdf)
@@ -23,3 +24,9 @@ Paper lists about Formal Verification in DeFi, if you have any questions or sugg
   - [Payout Races and Congested Channels: A Formal Analysis of Security in the Lightning Network](https://arxiv.org/abs/2405.02147)
   - [Atomicity and Abstraction for Cross-Blockchain Interactions](https://arxiv.org/abs/2403.07248)
   - [LiDO: Linearizable Byzantine Distributed Objects with Refinement-Based Liveness Proofs](https://flint.cs.yale.edu/flint/publications/lido-tr.pdf)
+
+
+## Useful Tools
+  - [Z3](https://github.com/Z3Prover/z3)
+  - [Spin](https://spinroot.com/spin/whatispin.html)
+  - [TLA+](https://lamport.azurewebsites.net/tla/tla.html)
