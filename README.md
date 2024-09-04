@@ -6,7 +6,7 @@ Paper lists about Formal Verification in DeFi, if you have any questions or sugg
 ## **Content**
    1. [Smart Contracts Formal Verification](#smart-contracts-formal-verification)
    2. [Protocol Formal Verification](#protocol-formal-verification)
-   3. [Useful tools](#useful tools)
+   3. [Useful tools](#useful-tools)
 
 ## Smart Contracts Formal Verification
   - [On Verification of Smart Contracts via Model Checking](https://www.researchgate.net/profile/Xue-Yang-Zhu/publication/361701266_On_Verification_of_Smart_Contracts_via_Model_Checking/links/6305d03bacd814437fd110d7/On-Verification-of-Smart-Contracts-via-Model-Checking.pdf)
